@@ -1,0 +1,2 @@
+Random seed used: 835775
+Parameters: N=5000, mu=0.3, iteration=7
